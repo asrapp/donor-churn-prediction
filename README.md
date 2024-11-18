@@ -29,12 +29,10 @@ Donor churn significantly impacts fundraising efforts. Predicting churn enables 
 ## Data Acquisition
 - **Datasets:**
   - Utilize publicly available datasets that mirror donor behaviors and fundraising activities.
-  - For instance, the "Charity Donation Prediction" dataset on Kaggle provides relevant features such as Donor ID, Donation Amount, and Donation Frequency.
+  
 - **Data Sources:**
-  - Kaggle: [Charity Donation Prediction Dataset](https://www.kaggle.com/datasets/ibrahimelsayed182/donation-analysis)
-  - GlobalGiving Open Data: [GlobalGiving Datasets](https://www.globalgiving.org/learn/open-data/)
-  - Nonprofit Open Data Collective: [Nonprofit Datasets](https://data.world/nonprofit-open-data-collective)
-
+  - Kaggle: [Fundraising Data]([https://www.kaggle.com/datasets/ibrahimelsayed182/donation-analysis](https://www.kaggle.com/datasets/michaelpawlus/fundraising-data?select=data_science_for_fundraising_donor_data.csv))
+  
 ## Data Preprocessing
 - Handle missing values and outliers.
 - Encode categorical variables.
