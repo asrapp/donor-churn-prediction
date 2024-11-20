@@ -1,7 +1,7 @@
 # Donor Churn Prediction Project
 
 ## Overview
-The Donor Churn Prediction project aims to help organizations retain donors by leveraging data analytics and predictive modeling. By identifying at-risk donors early, organizations can implement targeted engagement strategies to enhance donor retention, maximize revenue, and improve campaign efficiency.
+The Donor Churn Prediction project aims to help organizations retain donors by leveraging data analytics and predictive modeling. By identifying at-risk donors early, organizations can implement targeted engagement strategies to enhance donor retention, maximize revenue, and improve campaign efficiency. My goal is to get a hands-on exprience on a Data Anlaystics Project with donors and fundraise data for specific cause such in research, teaching and patient care.
 
 
 ## Business Context
@@ -58,11 +58,14 @@ Imputing missing numeric values with median or mode.
 
 In this project, we meticulously crafted features to enhance the predictive power of our models. The key features developed include:
 
-ScaledFrequency: Normalized frequency of donor contributions, highlighting consistency in giving behavior. This feature contributed the most to churn prediction (61.3% importance).
+**ScaledFrequency**: 
+Normalized frequency of donor contributions, highlighting consistency in giving behavior. This feature contributed the most to churn prediction (61.3% importance).
 
-LogMonetary: Log-transformed monetary value of contributions to stabilize variance and enhance interpretability, with a significant feature importance of 35.7%.
+**LogMonetary**:
+Log-transformed monetary value of contributions to stabilize variance and enhance interpretability, with a significant feature importance of 35.7%.
 
-RecencyCategory: Categorized recency of donations to capture the impact of time since the last contribution, contributing 2.9% to the model's predictions.
+**RecencyCategory**:
+Categorized recency of donations to capture the impact of time since the last contribution, contributing 2.9% to the model's predictions.
 
 These features were carefully engineered to provide the Gradient Boosting model with interpretable and meaningful input for predicting churn.
 
