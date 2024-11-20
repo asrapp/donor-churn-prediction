@@ -165,13 +165,7 @@ Libraries:
 Scikit-learn: Used for machine learning model implementation, evaluation, and feature importance analysis.
 Pandas: For data manipulation and preprocessing.
 NumPy: For numerical computations.
-Matplotlib & Seaborn: For data visualization and EDA.
-Joblib: For saving and loading the trained model.
 
-- Metrics and Visualization:
-Confusion Matrix: Evaluated classification performance.
-ROC-AUC Curve: Assessed discriminatory power of the models.
-Jupyter Notebook: Environment for documenting and running the analysis interactively.
 
 - External Libraries
 XGBoost: For implementing the XGBoost model.
