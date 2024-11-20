@@ -1,7 +1,7 @@
 # Donor Churn Prediction Project
 
 ## Overview
-The Donor Churn Prediction project utilizes advanced data analytics, predictive modeling, and ETL pipelines to identify at-risk donors, enabling targeted engagement strategies. Leveraging tools like Tableau for interactive dashboards, AWS SageMaker and S3 for scalable ML deployment, and privacy-compliant workflows, this project enhances retention, maximizes revenue, and provides hands-on experience in data-driven decision-making for fundraising in research, teaching, and patient care.
+The Donor Churn Prediction project utilizes advanced data analytics, predictive modeling, and ETL pipelines to identify at-risk donors, enabling targeted engagement strategies. Leveraging tools like Tableau for interactive dashboards, AWS SageMaker and S3 for scalable ML deployment. This project enhances retention, maximizes revenue, and provides me hands-on experience in data-driven decision-making for fundraising in research, teaching, and patient care. My goal is to learn, as always.
 
 
 ## Business Context
