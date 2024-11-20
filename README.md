@@ -3,8 +3,6 @@
 ## Overview
 The Donor Churn Prediction project aims to help organizations retain donors by leveraging data analytics and predictive modeling. By identifying at-risk donors early, organizations can implement targeted engagement strategies to enhance donor retention, maximize revenue, and improve campaign efficiency.
 
-## Objective
-**Improve Donor Retention** : Retaining donors is more cost-effective than acquiring new ones. This project focuses on identifying churned donors to re-engage them.
 
 **Actionable Insights**: Provide data-driven insights to guide engagement campaigns.
 Maximize Fundraising Revenue: Retain high-value donors to optimize revenue streams.
@@ -30,7 +28,8 @@ Maximize Fundraising Revenue: Retain high-value donors to optimize revenue strea
 ## Introduction
 Donor churn significantly impacts fundraising efforts. Predicting churn enables organizations to implement targeted retention strategies.
 
-
+## Objective
+**Improve Donor Retention** : Retaining donors is more cost-effective than acquiring new ones. This project focuses on identifying churned donors to re-engage them.
   
 ### Data Sources
 - **Primary Files:**
