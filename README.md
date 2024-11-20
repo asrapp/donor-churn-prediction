@@ -75,7 +75,9 @@ EDA was conducted to uncover patterns and relationships within the data, focusin
 
 Distribution Analysis: Donations showed a right-skewed distribution, prompting log transformation for normalization.
 Churn Behavior: High recency and low frequency were strong indicators of churn.
+
 Correlation Analysis: Monetary value was moderately correlated with donor retention, underscoring its importance in predicting churn.
+
 Visualizations, including histograms, scatterplots, and heatmaps, were used to explore data distributions and relationships, guiding feature engineering and model development.
 
 
