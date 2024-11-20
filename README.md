@@ -3,6 +3,8 @@
 ## Overview
 The Donor Churn Prediction project aims to help organizations retain donors by leveraging data analytics and predictive modeling. By identifying at-risk donors early, organizations can implement targeted engagement strategies to enhance donor retention, maximize revenue, and improve campaign efficiency. My goal is to get a hands-on exprience on a Data Anlaystics Project with donors and fundraise data for specific cause such in research, teaching and patient care.
 
+The Donor Churn Prediction project utilizes advanced data analytics, predictive modeling, and ETL pipelines to identify at-risk donors, enabling targeted engagement strategies. Leveraging tools like Tableau for interactive dashboards, AWS SageMaker and S3 for scalable ML deployment, and privacy-compliant workflows, this project enhances retention, maximizes revenue, and provides hands-on experience in data-driven decision-making for fundraising in research, teaching, and patient care.
+
 
 ## Business Context
 **Donor Retention**: Retaining existing donors is critical for sustainability. Insights from this project support donor relationship management.
