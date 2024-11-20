@@ -130,6 +130,29 @@ Interpretability through feature importance analysis, highlighting actionable in
 Practical utility by identifying high-risk donors for targeted retention strategies.
 This project demonstrates how machine learning can be leveraged to improve donor retention and optimize engagement strategies.
 
+Insights from Confusion Matrix:
+
+True Positives: 5,946 donors were correctly identified as likely to churn, ensuring targeted intervention.
+False Negatives: Only 96 churned donors were misclassified as non-churned, minimizing missed opportunities.
+Precision and Recall Balance: Achieving high recall (98%) while maintaining strong precision (89%) ensures that the model effectively identifies most at-risk donors without overwhelming the system with false alarms.
+
+**High-Risk Donors Identified**
+
+A list of 5,201 high-risk donors was created, containing donors with a predicted churn probability greater than 80%.
+Key examples of high-risk donors include:
+Donor IDs: 9, 29, 34, with churn probabilities exceeding 90%.
+The high-risk donors have been saved in a file titled high_risk_donors.csv, enabling targeted outreach campaigns to retain these donors.
+
+**Actionable Insights**:
+
+- Engagement Campaigns: Focus retention efforts on the 5,201 high-risk donors identified by the model. These donors are prime candidates for personalized outreach programs.
+  
+- Monetary Contributions: Introduce strategies to boost donor contributions for those with low monetary value, such as tailored campaigns emphasizing impact.
+  
+- Frequency Interventions: Implement targeted initiatives to increase contribution frequency among moderate- to high-risk donors.
+  
+- Proactive CRM Integration: The high_risk_donors.csv file is ready for integration with donor management systems to streamline outreach efforts.
+
 ## References
 
 - Data Sources
